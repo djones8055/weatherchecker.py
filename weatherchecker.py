@@ -18,5 +18,5 @@ CONDITION = WEATHERPAGE.select('.today_nowcard-phrase')[0].getText()
 
 print()
 print("The current weather in " + LOCATION + " is " + TEMP + " degrees, and "
-+ CONDITION + ".")
+      + CONDITION + ".")
 print()
