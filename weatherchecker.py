@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-""" Download stuff I want to know from around the internet and display it in one screen, also
-    add a search the internet button. """
+""" Check the weather based on a zip code provided by the user """
 
 import bs4
 import requests
